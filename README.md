@@ -1,6 +1,6 @@
 ## Laravel Foundation Core Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.1/src/Illuminate/Foundation/](https://github.com/laravel/framework/tree/v5.7.1/src/Illuminate/Foundation/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.2/src/Illuminate/Foundation/](https://github.com/laravel/framework/tree/v5.7.2/src/Illuminate/Foundation/)
 
 
 ### Issues
